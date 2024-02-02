@@ -25,7 +25,8 @@
 ---
 
 <p align="center">
-  <img alt="screenshot" src="screenshot.png">
+  ![Screenshot 2024-02-02 at 3 51 17 PM](https://github.com/raijenken27/jeromeogarcia-linktree/assets/29512917/433cb57c-d5e8-45ab-b4d7-d85ae253858c)
+
 </p>
 
 ---
